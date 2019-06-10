@@ -1,0 +1,3054 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Log>
+  <trace id="0">
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="CountryName"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryWORKFLOWINTERNALSOURCE_Country"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryCountryName"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryGetCitiesByCountry"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryGetCitiesResult"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryWORKFLOWINTERNALSINK_Cities"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryExtractCity"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryWORKFLOWINTERNALSINK_lotsOfCities"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="SelectFirstCities"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="CountryAndCity"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="GetWeather"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="GetWeatherResult"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="WORKFLOWINTERNALSINK_WeatherInfo"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="ExtractTemperature"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="WORKFLOWINTERNALSINK_outp2"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+  </trace>
+  <trace id="1">
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="CountryName"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryWORKFLOWINTERNALSOURCE_Country"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryCountryName"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryGetCitiesByCountry"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryGetCitiesResult"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryWORKFLOWINTERNALSINK_Cities"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryExtractCity"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryWORKFLOWINTERNALSINK_lotsOfCities"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="SelectFirstCities"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="CountryAndCity"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="GetWeather"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="GetWeatherResult"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="ExtractTemperature"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="WORKFLOWINTERNALSINK_WeatherInfo"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="WORKFLOWINTERNALSINK_outp2"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+  </trace>
+  <trace id="2">
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="CountryName"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryWORKFLOWINTERNALSOURCE_Country"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryCountryName"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryGetCitiesByCountry"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryGetCitiesResult"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryExtractCity"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryWORKFLOWINTERNALSINK_lotsOfCities"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="SelectFirstCities"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryWORKFLOWINTERNALSINK_Cities"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="CountryAndCity"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="GetWeather"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="GetWeatherResult"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="ExtractTemperature"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="WORKFLOWINTERNALSINK_WeatherInfo"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="WORKFLOWINTERNALSINK_outp2"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+  </trace>
+  <trace id="3">
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="CountryName"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryWORKFLOWINTERNALSOURCE_Country"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryCountryName"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryGetCitiesByCountry"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryGetCitiesResult"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryExtractCity"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryWORKFLOWINTERNALSINK_lotsOfCities"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryWORKFLOWINTERNALSINK_Cities"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="SelectFirstCities"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="CountryAndCity"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="GetWeather"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="GetWeatherResult"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="ExtractTemperature"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="WORKFLOWINTERNALSINK_WeatherInfo"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="WORKFLOWINTERNALSINK_outp2"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+  </trace>
+  <trace id="4">
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="CountryName"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryWORKFLOWINTERNALSOURCE_Country"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryCountryName"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryGetCitiesByCountry"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryGetCitiesResult"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryExtractCity"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryWORKFLOWINTERNALSINK_Cities"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryWORKFLOWINTERNALSINK_lotsOfCities"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="SelectFirstCities"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="CountryAndCity"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="GetWeather"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="GetWeatherResult"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="ExtractTemperature"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="WORKFLOWINTERNALSINK_outp2"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="WORKFLOWINTERNALSINK_WeatherInfo"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+  </trace>
+  <trace id="5">
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="CountryName"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryWORKFLOWINTERNALSOURCE_Country"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryCountryName"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryGetCitiesByCountry"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryGetCitiesResult"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryExtractCity"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryWORKFLOWINTERNALSINK_Cities"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryWORKFLOWINTERNALSINK_lotsOfCities"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="SelectFirstCities"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="CountryAndCity"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="GetWeather"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="GetWeatherResult"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="WORKFLOWINTERNALSINK_WeatherInfo"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="ExtractTemperature"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="WORKFLOWINTERNALSINK_outp2"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+  </trace>
+  <trace id="6">
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="CountryName"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryWORKFLOWINTERNALSOURCE_Country"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryCountryName"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryGetCitiesByCountry"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryGetCitiesResult"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryWORKFLOWINTERNALSINK_Cities"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryExtractCity"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryWORKFLOWINTERNALSINK_lotsOfCities"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="SelectFirstCities"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="CountryAndCity"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="GetWeather"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="GetWeatherResult"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="ExtractTemperature"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="WORKFLOWINTERNALSINK_outp2"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="WORKFLOWINTERNALSINK_WeatherInfo"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+  </trace>
+  <trace id="7">
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="CountryName"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryWORKFLOWINTERNALSOURCE_Country"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryCountryName"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryGetCitiesByCountry"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryGetCitiesResult"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryExtractCity"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryWORKFLOWINTERNALSINK_lotsOfCities"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="SelectFirstCities"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="CountryAndCity"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryWORKFLOWINTERNALSINK_Cities"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="GetWeather"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="GetWeatherResult"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="WORKFLOWINTERNALSINK_WeatherInfo"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="ExtractTemperature"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="WORKFLOWINTERNALSINK_outp2"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+  </trace>
+  <trace id="8">
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="CountryName"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryWORKFLOWINTERNALSOURCE_Country"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryCountryName"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryGetCitiesByCountry"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryGetCitiesResult"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryExtractCity"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryWORKFLOWINTERNALSINK_lotsOfCities"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="SelectFirstCities"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryWORKFLOWINTERNALSINK_Cities"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="CountryAndCity"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="GetWeather"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="GetWeatherResult"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="WORKFLOWINTERNALSINK_WeatherInfo"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="ExtractTemperature"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="WORKFLOWINTERNALSINK_outp2"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+  </trace>
+  <trace id="9">
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="CountryName"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryWORKFLOWINTERNALSOURCE_Country"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryCountryName"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryGetCitiesByCountry"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryGetCitiesResult"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryExtractCity"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryWORKFLOWINTERNALSINK_lotsOfCities"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="SelectFirstCities"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="CountryAndCity"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="GetWeather"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="GetWeatherResult"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryWORKFLOWINTERNALSINK_Cities"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="WORKFLOWINTERNALSINK_WeatherInfo"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="ExtractTemperature"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="WORKFLOWINTERNALSINK_outp2"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+  </trace>
+  <trace id="10">
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="CountryName"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryWORKFLOWINTERNALSOURCE_Country"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryCountryName"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryGetCitiesByCountry"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryGetCitiesResult"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryExtractCity"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryWORKFLOWINTERNALSINK_lotsOfCities"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="SelectFirstCities"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="CountryAndCity"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="GetWeather"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryWORKFLOWINTERNALSINK_Cities"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="GetWeatherResult"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="WORKFLOWINTERNALSINK_WeatherInfo"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="ExtractTemperature"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="WORKFLOWINTERNALSINK_outp2"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+  </trace>
+  <trace id="11">
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="CountryName"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryWORKFLOWINTERNALSOURCE_Country"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryCountryName"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryGetCitiesByCountry"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryGetCitiesResult"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryExtractCity"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryWORKFLOWINTERNALSINK_lotsOfCities"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryWORKFLOWINTERNALSINK_Cities"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="SelectFirstCities"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="CountryAndCity"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="GetWeather"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="GetWeatherResult"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="WORKFLOWINTERNALSINK_WeatherInfo"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="ExtractTemperature"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="WORKFLOWINTERNALSINK_outp2"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+  </trace>
+  <trace id="12">
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="CountryName"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryWORKFLOWINTERNALSOURCE_Country"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryCountryName"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryGetCitiesByCountry"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryGetCitiesResult"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryExtractCity"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryWORKFLOWINTERNALSINK_Cities"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryWORKFLOWINTERNALSINK_lotsOfCities"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="SelectFirstCities"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="CountryAndCity"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="GetWeather"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="GetWeatherResult"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="ExtractTemperature"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="WORKFLOWINTERNALSINK_WeatherInfo"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="WORKFLOWINTERNALSINK_outp2"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+  </trace>
+  <trace id="13">
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="CountryName"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryWORKFLOWINTERNALSOURCE_Country"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryCountryName"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryGetCitiesByCountry"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryGetCitiesResult"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryExtractCity"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryWORKFLOWINTERNALSINK_lotsOfCities"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryWORKFLOWINTERNALSINK_Cities"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="SelectFirstCities"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="CountryAndCity"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="GetWeather"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="GetWeatherResult"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="ExtractTemperature"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="WORKFLOWINTERNALSINK_outp2"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="WORKFLOWINTERNALSINK_WeatherInfo"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+  </trace>
+  <trace id="14">
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="CountryName"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryWORKFLOWINTERNALSOURCE_Country"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryCountryName"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryGetCitiesByCountry"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryGetCitiesResult"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryExtractCity"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryWORKFLOWINTERNALSINK_lotsOfCities"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="SelectFirstCities"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="CountryAndCity"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="GetWeather"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="GetWeatherResult"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="ExtractTemperature"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryWORKFLOWINTERNALSINK_Cities"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="WORKFLOWINTERNALSINK_outp2"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="WORKFLOWINTERNALSINK_WeatherInfo"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+  </trace>
+  <trace id="15">
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="CountryName"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryWORKFLOWINTERNALSOURCE_Country"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryCountryName"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryGetCitiesByCountry"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryGetCitiesResult"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryExtractCity"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryWORKFLOWINTERNALSINK_lotsOfCities"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="SelectFirstCities"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryWORKFLOWINTERNALSINK_Cities"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="CountryAndCity"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="GetWeather"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="GetWeatherResult"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="ExtractTemperature"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="WORKFLOWINTERNALSINK_outp2"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="WORKFLOWINTERNALSINK_WeatherInfo"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+  </trace>
+  <trace id="16">
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="CountryName"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryWORKFLOWINTERNALSOURCE_Country"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryCountryName"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryGetCitiesByCountry"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryGetCitiesResult"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryExtractCity"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryWORKFLOWINTERNALSINK_lotsOfCities"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="SelectFirstCities"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="CountryAndCity"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="GetWeather"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="GetWeatherResult"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="ExtractTemperature"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="WORKFLOWINTERNALSINK_outp2"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryWORKFLOWINTERNALSINK_Cities"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="WORKFLOWINTERNALSINK_WeatherInfo"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+  </trace>
+  <trace id="17">
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="CountryName"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryWORKFLOWINTERNALSOURCE_Country"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryCountryName"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryGetCitiesByCountry"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryGetCitiesResult"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryExtractCity"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryWORKFLOWINTERNALSINK_lotsOfCities"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="SelectFirstCities"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="CountryAndCity"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="GetWeather"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryWORKFLOWINTERNALSINK_Cities"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="GetWeatherResult"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="ExtractTemperature"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="WORKFLOWINTERNALSINK_WeatherInfo"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="WORKFLOWINTERNALSINK_outp2"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+  </trace>
+  <trace id="18">
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="CountryName"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryWORKFLOWINTERNALSOURCE_Country"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryCountryName"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryGetCitiesByCountry"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryGetCitiesResult"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryExtractCity"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryWORKFLOWINTERNALSINK_lotsOfCities"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="SelectFirstCities"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="CountryAndCity"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="GetWeather"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="GetWeatherResult"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="WORKFLOWINTERNALSINK_WeatherInfo"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="ExtractTemperature"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryWORKFLOWINTERNALSINK_Cities"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="WORKFLOWINTERNALSINK_outp2"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+  </trace>
+  <trace id="19">
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="CountryName"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryWORKFLOWINTERNALSOURCE_Country"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryCountryName"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryGetCitiesByCountry"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryGetCitiesResult"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryExtractCity"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryWORKFLOWINTERNALSINK_lotsOfCities"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="SelectFirstCities"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="CountryAndCity"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="GetWeather"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="GetWeatherResult"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="ExtractTemperature"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="WORKFLOWINTERNALSINK_outp2"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="WORKFLOWINTERNALSINK_WeatherInfo"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryWORKFLOWINTERNALSINK_Cities"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+  </trace>
+  <trace id="20">
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="CountryName"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryWORKFLOWINTERNALSOURCE_Country"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryCountryName"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryGetCitiesByCountry"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryGetCitiesResult"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryExtractCity"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryWORKFLOWINTERNALSINK_lotsOfCities"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="SelectFirstCities"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="CountryAndCity"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="GetWeather"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="GetWeatherResult"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="WORKFLOWINTERNALSINK_WeatherInfo"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryWORKFLOWINTERNALSINK_Cities"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="ExtractTemperature"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="WORKFLOWINTERNALSINK_outp2"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+  </trace>
+  <trace id="21">
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="CountryName"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryWORKFLOWINTERNALSOURCE_Country"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryCountryName"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryGetCitiesByCountry"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryGetCitiesResult"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryExtractCity"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryWORKFLOWINTERNALSINK_lotsOfCities"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="SelectFirstCities"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="CountryAndCity"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="GetWeather"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="GetWeatherResult"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="ExtractTemperature"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="WORKFLOWINTERNALSINK_WeatherInfo"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryWORKFLOWINTERNALSINK_Cities"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="WORKFLOWINTERNALSINK_outp2"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+  </trace>
+  <trace id="22">
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="CountryName"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryWORKFLOWINTERNALSOURCE_Country"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryCountryName"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryGetCitiesByCountry"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryGetCitiesResult"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryExtractCity"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryWORKFLOWINTERNALSINK_lotsOfCities"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="SelectFirstCities"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="CountryAndCity"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryWORKFLOWINTERNALSINK_Cities"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="GetWeather"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="GetWeatherResult"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="ExtractTemperature"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="WORKFLOWINTERNALSINK_outp2"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="WORKFLOWINTERNALSINK_WeatherInfo"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+  </trace>
+  <trace id="23">
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="CountryName"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryWORKFLOWINTERNALSOURCE_Country"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryCountryName"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryGetCitiesByCountry"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryGetCitiesResult"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryExtractCity"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryWORKFLOWINTERNALSINK_lotsOfCities"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="SelectFirstCities"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="CountryAndCity"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="GetWeather"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="GetWeatherResult"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryWORKFLOWINTERNALSINK_Cities"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="ExtractTemperature"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="WORKFLOWINTERNALSINK_outp2"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="WORKFLOWINTERNALSINK_WeatherInfo"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+  </trace>
+  <trace id="24">
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="CountryName"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryWORKFLOWINTERNALSOURCE_Country"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryCountryName"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryGetCitiesByCountry"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryGetCitiesResult"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryExtractCity"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryWORKFLOWINTERNALSINK_lotsOfCities"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="SelectFirstCities"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="CountryAndCity"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="GetWeather"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="GetWeatherResult"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="WORKFLOWINTERNALSINK_WeatherInfo"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="ExtractTemperature"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="WORKFLOWINTERNALSINK_outp2"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="FindCitiesByCountryWORKFLOWINTERNALSINK_Cities"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+  </trace>
+</Log>

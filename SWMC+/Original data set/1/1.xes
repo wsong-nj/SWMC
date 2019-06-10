@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Log>
+  <trace id="0">
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="xkcdURL"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="getPage"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="comicURLRegex"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="getImageLinks"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="findComicURL"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="getComicStrip"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="WORKFLOWINTERNALSINK_todaysXkcd"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+  </trace>
+  <trace id="1">
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="comicURLRegex"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="xkcdURL"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="getPage"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="getImageLinks"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="findComicURL"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="getComicStrip"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="WORKFLOWINTERNALSINK_todaysXkcd"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+  </trace>
+  <trace id="2">
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="xkcdURL"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="getPage"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="getImageLinks"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="comicURLRegex"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="findComicURL"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="getComicStrip"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="WORKFLOWINTERNALSINK_todaysXkcd"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+  </trace>
+  <trace id="3">
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="xkcdURL"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="comicURLRegex"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="getPage"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="getImageLinks"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="findComicURL"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="getComicStrip"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+    <event>
+      <String key="org:resource" value="UNDEFINED"/>
+      <date key="time:timestamp" value="2008-12-09T08:21:01.527+01:00"/>
+      <String key="concept:name" value="WORKFLOWINTERNALSINK_todaysXkcd"/>
+      <String key="lifecycle:transition" value="receive"/>
+      <String key="input" value="null"/>
+      <String key="output" value="null"/>
+    </event>
+  </trace>
+</Log>

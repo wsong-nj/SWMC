@@ -1,0 +1,8 @@
+getReferences_input
+WORKFLOWINTERNALSOURCE_id
+getCitations_input
+extract_reference_id
+WORKFLOWINTERNALSINK_graph
+pageSize
+getCitations_output
+draw_graph
